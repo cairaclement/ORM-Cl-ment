@@ -1,0 +1,2 @@
+- Telecharger le dossier
+- Mettre les informations de votre SQL dans le dossier "connect"
